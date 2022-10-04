@@ -1,11 +1,11 @@
 <?php
 date_default_timezone_set('America/New_York');
 
-$host = "localhost";
-$username = "Jason";
-$password = "Jason1253!";
-$db = "HBS";
-$secretKey = "6LfMeZwhAAAAAGMAjdESqA72sPDTE410_9LsQNjn";
+$host =  // removed for github
+$username = // removed for github
+$password =  // removed for github
+$db = // removed for github
+$secretKey =  // removed for github
 
 
 
